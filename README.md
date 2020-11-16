@@ -38,9 +38,9 @@
   lstadd_back, lstdelone, lstclear, lstiter, lstmap
   ```
 
-- [My own functions](https://github.com/jwon42/42cursus_01_Libft/tree/master/02_myown)
+- [My own functions](/02_myown)
 
-  - [get_next_line](https://github.com/jwon42/42cursus_01_Libft/blob/master/02_myown/get_next_line.c)
+  - [get_next_line](/02_myown/get_next_line.c)
 
     ```c
     int get_next_line(int fd, char **line);
@@ -48,7 +48,7 @@
 
     Write a function which returns a line read from a file descriptor, without the newline.
 
-  - [isspace](https://github.com/jwon42/42cursus_01_Libft/blob/master/02_myown/ft_isspace.c)
+  - [isspace](/02_myown/ft_isspace.c)
 
     ```c
     int ft_isspace(int c);
@@ -56,7 +56,7 @@
 
     Checks for white-space characters. (`" "`, `\f`, `\n`, `\r`, `\t`, `\v`)
 
-  - [chrdel](https://github.com/jwon42/42cursus_01_Libft/blob/master/02_myown/ft_chrdel.c)
+  - [chrdel](/02_myown/ft_chrdel.c)
 
     ```c
     char *ft_chrdel(char const *s, char c);
